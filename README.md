@@ -1,6 +1,7 @@
 # mates
 
-Actividades de matemáticas creadas con GeoGebra.
+Actividades y materiales de matemáticas: fichas, apuntes y construcciones
+interactivas (por ejemplo, creadas con GeoGebra).
 
 ## Licencia
 
